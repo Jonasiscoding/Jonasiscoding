@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jonasiscoding
 - 👀 I’m interested in µC
 - 🌱 I’m currently learning C, C++, Python
-- 💞️ I’m looking to collaborate on anything I can help
 - 📫 Reach out to me on instagram @jonas.bo01
 - ⚡ Fun fact: electrical engineerig student trying to code
 
